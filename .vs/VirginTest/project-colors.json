@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d3120840-6523-4ac0-8277-b81054e6375e": {
+      "ProjectGuid": "d3120840-6523-4ac0-8277-b81054e6375e",
+      "DisplayName": "VirginTestClient",
+      "ColorIndex": 0
+    },
+    "72db5fa6-146f-45c9-8895-98e1c8a40cf3": {
+      "ProjectGuid": "72db5fa6-146f-45c9-8895-98e1c8a40cf3",
+      "DisplayName": "VirginTestWebApi",
+      "ColorIndex": 1
+    },
+    "f1a9c5b9-9b51-48b6-81ba-631ec10f18ce": {
+      "ProjectGuid": "f1a9c5b9-9b51-48b6-81ba-631ec10f18ce",
+      "DisplayName": "VirginTestWebApi",
+      "ColorIndex": 2
+    },
+    "e29da7f0-8543-414f-a8fa-c3a1df4ecad0": {
+      "ProjectGuid": "e29da7f0-8543-414f-a8fa-c3a1df4ecad0",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

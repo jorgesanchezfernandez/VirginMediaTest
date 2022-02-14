@@ -1,0 +1,33 @@
+h2 {
+    text-align: center;
+    padding: 20px 0;
+}
+
+table caption {
+    padding: .5em 0;
+}
+
+.table-bordered {
+    border: 1.2px solid #ddd !important;
+}
+
+@media screen and (max-width: 767px) {
+    table caption {
+        display: none;
+    }
+}
+
+.p {
+    padding-top: 150px;
+    text-align: center;
+    font-size: 15px;
+}
+
+.virgin-header {
+    padding: 60px;
+    text-align: center;
+    background: #3a1760;
+    color: white;
+    font-size: 30px;
+}
+
